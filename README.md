@@ -8,13 +8,13 @@ Welcome to the code documentation for this mini-project. This is forked from Uda
 
 ## Project structure
 
-fresh_tomatoes.py (Is the python code from the main project that generates the webpage to display our movies) <br/>
+* fresh_tomatoes.py (Is the python code from the main project that generates the webpage to display   our movies) <br/>
 
-video.py (is the main python class to be used to play videos.)<br/>
-| - media.py (is the python file that contains the class called Movies that holds information about movies) extends Video class<br/>
-| - series.py (was supposed to be the python file that contains the class Series that would hold information about Tv-series) extends Video class<br/>
+* video.py (is the main python class to be used to play videos.)<br/>
+    | - media.py (is the python file that contains the class called Movies that holds information       about movies) extends Video class<br/>
+    | - series.py (was supposed to be the python file that contains the class Series that would         hold information about Tv-series) extends Video class<br/>
 
-entertainment_center.py (The python file that contains the main execution code using the fresh_tomatoes.py and media.py files)<br/>
+* entertainment_center.py (The python file that contains the main execution code using the          fresh_tomatoes.py and media.py files)<br/>
 
 
 # Forked from ud036_StarterCode
