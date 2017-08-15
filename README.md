@@ -26,3 +26,5 @@ Welcome to the code documentation for this mini-project. This is forked from [Ud
    ```
     python entertainment_center.py
    ```
+
+* Once you run the above command It will generate a HTML page and then open that page in a browser.   which you can interact with. This generated HTML file is present inside the same folder of the      project. 
