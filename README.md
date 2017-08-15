@@ -4,7 +4,7 @@ Welcome to the code documentation for this mini-project. This is forked from [Ud
 
 ## Prerequistes
 
-* Install python in your current Operating System. I am using [2.7.11] https://www.python.org/ .
+* Install python in your current Operating System. I am using [2.7.11](https://www.python.org/) .
 
 ## Project structure
 
