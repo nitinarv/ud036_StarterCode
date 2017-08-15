@@ -18,7 +18,11 @@ Welcome to the code documentation for this mini-project. This is forked from [Ud
 
 ## How to run?
 
-In order to run this code from the command line you will have to enter the following command 
-```
-python entertainment_center.py
-```
+* Clone or download this project to a location on your computer of your choosing
+
+* Open your command line / Terminal and navigate to that folder
+
+* In order to run this code from the command line you will have to enter the following command 
+   ```
+    python entertainment_center.py
+   ```
