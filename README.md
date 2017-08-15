@@ -1,10 +1,10 @@
 # Movie Library Python Mini-Project
 
-Welcome to the code documentation for this mini-project. This is forked from Udacity's ud036_StarterCode project(https://github.com/udacity/ud036_StarterCode). This is a python project so there are a few pre-requisites in order to run this project.
+Welcome to the code documentation for this mini-project. This is forked from [Udacity's ud036_StarterCode project](https://github.com/udacity/ud036_StarterCode). This is a python project so there are a few pre-requisites in order to run this project.
 
 ## Prerequistes
 
-* Install python in your current Operating System. I am using 2.7.11 https://www.python.org/ .
+* Install python in your current Operating System. I am using [2.7.11] https://www.python.org/ .
 
 ## Project structure
 
