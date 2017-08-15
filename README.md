@@ -19,6 +19,6 @@ Welcome to the code documentation for this mini-project. This is forked from Uda
 ## How to run?
 
 In order to run this code from the command line you will have to enter the following command 
-'''
+```
 python entertainment_center.py
-'''
+```
